@@ -1,9 +1,10 @@
 ## Describe your dataset
-This dataset contains the hourly averaged responses of 5 mental oxide sensors located in a polluted area within a city in Italy. The data was collected from March 2004 to February 2005
+This dataset contains the hourly averaged responses of 5 mental oxide sensors located in a polluted area within a city in Italy. The data was collected from March 2004 to February 2005.
 
 
 ## What is the source of your dataset?
-This data set was found on UCI Machine Learning Repository, first made publicly available in March of 2016
+This data set was found on UCI Machine Learning Repository, first made publicly available in March of 2016.
+Saverio De Vito (saverio.devito '@' enea.it), ENEA - National Agency for New Technologies, Energy and Sustainable Economic Development.
 
 
 ## Provide a link to your dataset 
@@ -29,6 +30,7 @@ This data set was found on UCI Machine Learning Repository, first made publicly 
 
 
 
-### Person 2 ():
+### Person 2 (Brianna Chernenkoff):
+My interest in the data set lies in understanding the overall relationship between different atmospheric contaminates and how it can effect the longevity of society based on health, vegetation growth and how it correlates to the increase in global warming issues within that specific geographic location. 
 
 
