@@ -7,7 +7,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-Collectively we have similar interests in using this data set, such that we both want to discover how the chemical contaminates effect the environment and contribute to the climate crisis in that area. Separately Aksay plans to determine if different nitrogenous oxides correlate to the production of acid rain or if there is any correlation at all. Furthermore, Brianna specifically is looking at if there is any parasitic regression between the different variables and to see if there is any correlation or not. Together we plan to take all the information collected from our separate analyses to determine if this affects the progression of the climate crisis in that area. 
+Collectively we have similar interests in using this data set, such that we both want to discover how the chemical contaminates effect the environment and contribute to the climate crisis in that area. Separately Aksay plans to examine nitrogenous oxides due to his interest in the production of acid rain and the trends around it. Furthermore, Brianna specifically is looking at if there is any parasitic regression between the different variables and to see if there is any correlation or not. Together we plan to take all the information collected from our separate analyses to determine if this affects the progression of the climate crisis in that area. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -15,9 +15,9 @@ Our dataset contains a single file containing information about different chemic
 
 ## Team Members
 
-- Person 1: Akshay Mhai: 
+- Person 1: Akshay Mahi: He is a third year Mgmt Student, with a primary focus in accounting.
 - Person 2: Brianna Chernenkoff: She is a third year BSc Student, majoring in General Studies with a focus in Data Science and Psychology. 
-- Person 3: one sentence about you!
+
 
 ## Images
 
