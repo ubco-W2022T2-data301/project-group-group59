@@ -13,7 +13,9 @@ def load_and_process1():
       #Renaming importat columns for increased readability and data entery, followed by deletion of non-utilized columns. Lastly converting object to datetime.
       df = (df.rename(columns={'NOx(GT)':'NOx_GT', 'NO2(GT)':'NO2_GT', 'T':'Temp','CO(GT)':'CO_GT', 'Time':'Hour'})
             .drop(df.columns[[3, 4, 5, 6, 8, 10, 11 ,15, 16,]], axis=1)
-            .astype({'Date': 'datetime64[ns]'}))
+            .astype({'Date': 'datetime64[ns]'})
+
+      )
       #Replacing missing values with NaN.
       df.replace(to_replace=-200, value= np.NaN, inplace=True)
 
