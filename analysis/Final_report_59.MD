@@ -56,4 +56,7 @@ Based on the results from our exploratory data analyses, we can deduce that from
 
 
 
+## References: 
+{Libretexts. (2023, February 13). Smog. Chemistry LibreTexts. Retrieved April 13, 2023, from https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/07%3A_Case_Studies-_Kinetics/7.04%3A_Smog}
 
+{S. De Vito, E. Massera, M. Piga, L. Martinotto, G. Di Francia, On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario, Sensors and Actuators B: Chemical, Volume 129, Issue 2,2008, Pages 750-757, ISSN 0925-4005, https://doi.org/10.1016/j.snb.2007.09.060 (https://www.sciencedirect.com/science/article/pii/S0925400507007691)}
